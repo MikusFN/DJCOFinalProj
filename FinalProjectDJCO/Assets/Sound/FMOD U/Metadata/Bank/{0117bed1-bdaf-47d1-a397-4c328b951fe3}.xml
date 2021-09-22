@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Bank" id="{0117bed1-bdaf-47d1-a397-4c328b951fe3}">
+		<property name="name">
+			<value>click corda</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d09970bb-c567-4eeb-b23f-d0019bd77422}</destination>
+		</relationship>
+	</object>
+</objects>

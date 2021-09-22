@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:FinalProjectDJCO/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset.meta
+guid: fca023a8600a9a347a9c5c6153a0cf53
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+=======
+guid: 04dd8a24da6b0f145963d9ffa5a9afc3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>> main:FinalProjectDJCO/Assets/Materials/RopeMat.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

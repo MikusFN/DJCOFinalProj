@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ea9bf847-54e1-46d4-838a-82a58dd2d75a}">
+		<property name="assetPath">
+			<value>Corda Tensa.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.0625170068027217</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9df0eadb-a0e5-4bc0-87d6-89077296415c}</destination>
+		</relationship>
+	</object>
+</objects>

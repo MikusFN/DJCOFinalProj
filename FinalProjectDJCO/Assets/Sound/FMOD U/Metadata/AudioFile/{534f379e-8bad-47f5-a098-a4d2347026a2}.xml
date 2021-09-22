@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{534f379e-8bad-47f5-a098-a4d2347026a2}">
+		<property name="assetPath">
+			<value>tiro1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.8373333333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9df0eadb-a0e5-4bc0-87d6-89077296415c}</destination>
+		</relationship>
+	</object>
+</objects>
