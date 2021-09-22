@@ -68,6 +68,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 6005478492121166864}
     m_Modifications:
     - target: {fileID: 151977733112044915, guid: e08425abb529469409c4a425ee180ff8, type: 3}
+      propertyPath: lifes
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 151977733112044915, guid: e08425abb529469409c4a425ee180ff8, type: 3}
       propertyPath: checkPointFinder
       value: 
       objectReference: {fileID: 5984886943229002706}
